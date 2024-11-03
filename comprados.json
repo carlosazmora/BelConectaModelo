@@ -1,0 +1,29 @@
+[
+   
+    {
+		"codsap": "200106346",
+		"desproducto": "ES FIORI PARFUM CC 50ML",
+		"desunidadnegocio": "COSMETICOS",
+		"desmarca": "ESIKA",
+		"descategoria": "FRAGANCIAS",
+		"desgrupoarticulo": "FRAGANCIAS",
+		"desclase": "FRAGANCIAS",
+		"largo": "39",
+		"ancho": "39",
+		"volumen": "254",
+		"pesobruto": "193"
+	},
+    {
+		"codsap": "200106556",
+		"desproducto": "CZ CYP MASC SECRET LASH 5.8 G",
+		"desunidadnegocio": "COSMETICOS",
+		"desmarca": "CYZONE",
+		"descategoria": "MAQUILLAJE",
+		"desgrupoarticulo": "MAQUILLAJE",
+		"desclase": "MAQUILLAJE",
+		"largo": "13",
+		"ancho": "13",
+		"volumen": "20",
+		"pesobruto": "15"
+	}
+]
